@@ -6,6 +6,8 @@
  */
 int main()
 {
-
+	int i = 10;
+	int a = 11;
+	int b = 12;
 }
 
